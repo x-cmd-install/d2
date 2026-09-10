@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.0"
   latestRelease: "v0.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:43:53Z
+  collectedAt: 2026-09-10T20:40:42Z
 timeline:
   created: 2022-09-05
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 25360
+  star: 25363
   watcher: 80
   fork: 746
   release: 36
@@ -93,7 +93,7 @@ total:
   commit: 5323
 ---
 path: /home/runner/.x-repo/github.com/terrastruct/d2
-collectedAt: 2026-09-10T16:44:57Z
+collectedAt: 2026-09-10T20:42:20Z
 loc:
   Json:
     code: 1771083
