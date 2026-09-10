@@ -4,7 +4,7 @@
 
 D2 is a modern diagram scripting language that turns text to diagrams.
 
-![d2](https://repo.x-cmd.io/d2.svg)
+![d2](https://repo.x-cmd.io/d2.svg?lang=zh)
 
 ## 安装
 
@@ -21,17 +21,30 @@ x install d2
 ## 发布
 
 - **最新版本**: `v0.9.0` (2026-09-07)
-- **最近提交**: 2026-09-07
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-09-07T22:16:40Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [d2-v0.9.0-linux-amd64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-linux-amd64.tar.gz) | 17.2 MiB | `native/linux/x64` |
+| [d2-v0.9.0-linux-arm64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-linux-arm64.tar.gz) | 15.8 MiB | `native/linux/arm64` |
+| [d2-v0.9.0-macos-amd64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-macos-amd64.tar.gz) | 17.4 MiB | `native/darwin/x64` |
+| [d2-v0.9.0-macos-arm64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-macos-arm64.tar.gz) | 16.3 MiB | `native/darwin/arm64` |
+| [d2-v0.9.0-windows-amd64.msi](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-windows-amd64.msi) | 14.8 MiB | `native/win/x64` |
+| [d2-v0.9.0-windows-amd64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-windows-amd64.tar.gz) | 17.4 MiB | `native/win/x64` |
+| [d2-v0.9.0-windows-arm64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-windows-arm64.tar.gz) | 15.9 MiB | `native/win/arm64` |
+| [d2.spdx.json](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2.spdx.json) | 23.7 KiB | `other` |
+| [SHA256SUMS](https://github.com/terrastruct/d2/releases/download/v0.9.0/SHA256SUMS) | 574 B | `other` |
 
 ## 流行度
 
-- **Star**: 25,353 · **Fork**: 746 · **开放 issue**: 1,396 · **贡献者**: 66
+- **Star**: 25,360 · **Fork**: 746 · **开放 issue**: 1,396 · **贡献者**: 66
 
 ## 累计统计
 
-- **发布数**: 36 · **已合并 PR**: 1136 · **开放 PR**: 51 · **已关闭 issue**: 922 · **开放 issue**: 474 · **提交数**: 5319
+- **发布数**: 36 · **已合并 PR**: 1138 · **开放 PR**: 51 · **已关闭 issue**: 922 · **开放 issue**: 474 · **提交数**: 5323
 
 ## 最近活动
 
@@ -43,12 +56,12 @@ x install d2
 
 ## 代码规模
 
-合计: **2,108,813** 行代码（覆盖前 5 种语言、共 **4159** 个文件）。
+合计: **2,109,660** 行代码（覆盖前 5 种语言、共 **4163** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 1,771,083 | 0 | 0 | 2069 |
-| Go | 265,155 | 12,582 | 22,920 | 965 |
+| Go | 266,002 | 12,615 | 22,960 | 969 |
 | Svg | 62,669 | 0 | 1,981 | 1078 |
 | Sh | 3,470 | 237 | 399 | 31 |
 | JavaScript | 3,197 | 57 | 252 | 16 |
@@ -72,4 +85,4 @@ d2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:22:31Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:45:04Z._
