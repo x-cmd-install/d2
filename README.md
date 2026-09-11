@@ -14,12 +14,12 @@ x install d2
 
 ## Code insight
 
-Total: **2,109,660** lines of code across **4163** files in the top 5 languages.
+Total: **2,109,847** lines of code across **4164** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,771,083 | 0 | 0 | 2069 |
-| Go | 266,002 | 12,615 | 22,960 | 969 |
+| Go | 266,189 | 12,622 | 22,982 | 970 |
 | Svg | 62,669 | 0 | 1,981 | 1078 |
 | Sh | 3,470 | 237 | 399 | 31 |
 | JavaScript | 3,197 | 57 | 252 | 16 |
@@ -43,16 +43,16 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.9.0` (2026-09-07)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 25,368 · **Forks**: 746 · **Open issues**: 1,396 · **Contributors**: 66
+- **Stars**: 25,380 · **Forks**: 747 · **Open issues**: 1,396 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1138 · **Open PRs**: 51 · **Closed issues**: 922 · **Open issues**: 474 · **Commits**: 5323
+- **Releases**: 36 · **Merged PRs**: 1139 · **Open PRs**: 58 · **Closed issues**: 922 · **Open issues**: 474 · **Commits**: 5326
 
 ## Recent activity
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **27** distros on [repology.org](https://repology.org/project/d2). **7** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+Reported by **27** distros on [repology.org](https://repology.org/project/d2). **8** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for d2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:21:22Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:38:27Z._
