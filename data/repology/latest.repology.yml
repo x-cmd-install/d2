@@ -1,3 +1,16 @@
+- repo: t2
+  srcname: d2
+  visiblename: d2
+  version: 0.9.0
+  origversion: null
+  status: newest
+  summary: Modern diagram scripting language that turns text to diagrams
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MPL
+  categories:
+    - extra/development
 - repo: altsisyphus
   srcname: d2
   binnames:
@@ -116,32 +129,12 @@
     - adamw@freebsd.org
   categories:
     - graphics
-- repo: t2
-  srcname: d2
-  visiblename: d2
-  version: 0.9.0
-  origversion: null
-  status: newest
-  summary: Modern diagram scripting language that turns text to diagrams
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - MPL
-  categories:
-    - extra/development
 - repo: homebrew
   srcname: d2
   visiblename: d2
   version: 0.9.0
   origversion: null
   status: newest
-  summary: Modern diagram scripting language that turns text to diagrams
-- repo: homebrew
-  srcname: d2
-  visiblename: d2
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Modern diagram scripting language that turns text to diagrams
 - repo: macports
   srcname: graphics/d2
@@ -174,9 +167,9 @@
   srcname: d2
   binname: d2
   visiblename: d2
-  version: 0.8.2
-  origversion: 0.8.2-1
-  status: outdated
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: newest
   summary: A modern diagram scripting language that turns text to diagrams
   licenses:
     - MPL-2.0
@@ -322,3 +315,10 @@
     - vaelatern@voidlinux.org
   licenses:
     - MPL-2.0
+- repo: homebrew
+  srcname: d2
+  visiblename: d2
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Modern diagram scripting language that turns text to diagrams
