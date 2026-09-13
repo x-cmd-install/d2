@@ -14,15 +14,15 @@ x install d2
 
 ## Code insight
 
-Total: **2,109,847** lines of code across **4164** files in the top 5 languages.
+Total: **2,121,632** lines of code across **4222** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,771,083 | 0 | 0 | 2069 |
-| Go | 266,189 | 12,622 | 22,982 | 970 |
+| Go | 277,920 | 12,907 | 23,772 | 1027 |
 | Svg | 62,669 | 0 | 1,981 | 1078 |
-| Sh | 3,470 | 237 | 399 | 31 |
-| JavaScript | 3,197 | 57 | 252 | 16 |
+| Sh | 3,484 | 241 | 402 | 32 |
+| JavaScript | 3,237 | 57 | 257 | 16 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.9.0` (2026-09-07)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-13
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 25,380 · **Forks**: 747 · **Open issues**: 1,396 · **Contributors**: 66
+- **Stars**: 25,402 · **Forks**: 748 · **Open issues**: 1,396 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1139 · **Open PRs**: 58 · **Closed issues**: 922 · **Open issues**: 474 · **Commits**: 5326
+- **Releases**: 36 · **Merged PRs**: 1171 · **Open PRs**: 51 · **Closed issues**: 922 · **Open issues**: 474 · **Commits**: 5410
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-16 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-21 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-14 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-17 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-23 | 7 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for d2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:38:27Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:28:00Z._
