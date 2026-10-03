@@ -14,12 +14,12 @@ x install d2
 
 ## Code insight
 
-Total: **2,121,723** lines of code across **4222** files in the top 5 languages.
+Total: **2,121,725** lines of code across **4222** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,771,083 | 0 | 0 | 2069 |
-| Go | 278,011 | 12,912 | 23,773 | 1027 |
+| Go | 278,013 | 12,913 | 23,773 | 1027 |
 | Svg | 62,669 | 0 | 1,981 | 1078 |
 | Sh | 3,484 | 241 | 402 | 32 |
 | JavaScript | 3,237 | 57 | 257 | 16 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.9.0` (2026-09-07)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-10-02
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 25,554 · **Forks**: 757 · **Open issues**: 1,401 · **Contributors**: 66
+- **Stars**: 25,557 · **Forks**: 757 · **Open issues**: 1,401 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1172 · **Open PRs**: 54 · **Closed issues**: 925 · **Open issues**: 476 · **Commits**: 5412
+- **Releases**: 36 · **Merged PRs**: 1173 · **Open PRs**: 54 · **Closed issues**: 925 · **Open issues**: 476 · **Commits**: 5414
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-03 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-04 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-05 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-07 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-12 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-03 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-04 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-05 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-06 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-08 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-13 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for d2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:58:44Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:51:31Z._
