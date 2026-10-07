@@ -30,7 +30,7 @@ Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,569 · **Forks**: 759 · **Open issues**: 1,402 · **Contributors**: 66
+- **Stars**: 25,572 · **Forks**: 759 · **Open issues**: 1,403 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1173 · **Open PRs**: 55 · **Closed issues**: 925 · **Open issues**: 477 · **Commits**: 5414
+- **Releases**: 36 · **Merged PRs**: 1173 · **Open PRs**: 55 · **Closed issues**: 925 · **Open issues**: 478 · **Commits**: 5414
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-07 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-08 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-09 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-11 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-16 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-07 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-08 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-09 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-10 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-12 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-17 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for d2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:54:01Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:23:53Z._
