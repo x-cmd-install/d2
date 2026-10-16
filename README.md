@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,616 · **Forks**: 766 · **Open issues**: 1,404 · **Contributors**: 67
+- **Stars**: 25,620 · **Forks**: 767 · **Open issues**: 1,405 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1175 · **Open PRs**: 56 · **Closed issues**: 925 · **Open issues**: 479 · **Commits**: 5423
+- **Releases**: 36 · **Merged PRs**: 1175 · **Open PRs**: 58 · **Closed issues**: 925 · **Open issues**: 480 · **Commits**: 5423
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-16 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-17 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-18 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-25 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-17 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-19 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-26 | 6 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for d2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:07:09Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:55:05Z._
