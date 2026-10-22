@@ -24,19 +24,9 @@ x install d2
 | Sh | 3,484 | 243 | 402 | 32 |
 | JavaScript | 3,311 | 57 | 262 | 17 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **6.5 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (1/10) — Found 1/10 approved changesets -- score normalized to 1
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-
 ## 源代码
 
-- **上游仓库**: <https://github.com/terrastruct/d2>
+- **上游仓库**: <https://github.com/d2lang/d2>
 - **官网**: <https://d2lang.com>
 - **许可证**: MPL-2.0
 
@@ -48,36 +38,36 @@ x install d2
 
 ## 流行度
 
-- **Star**: 25,695 · **Fork**: 768 · **开放 issue**: 1,406 · **贡献者**: 67
+- **Star**: 25,700 · **Fork**: 767 · **开放 issue**: 1,406 · **贡献者**: 67
 
 ## 累计统计
 
-- **发布数**: 36 · **已合并 PR**: 1175 · **开放 PR**: 57 · **已关闭 issue**: 926 · **开放 issue**: 480 · **提交数**: 5423
+- **发布数**: 36 · **已合并 PR**: 1175 · **开放 PR**: 56 · **已关闭 issue**: 926 · **开放 issue**: 480 · **提交数**: 5423
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-22 | 0 | 1 | 6 | 1 | 6 | 4 |
+| last60d | 2026-08-23 | 2 | 70 | 11 | 3 | 9 | 117 |
+| 90d | 2026-07-24 | 2 | 122 | 17 | 7 | 17 | 197 |
+| last180d | 2026-04-25 | 2 | 122 | 27 | 10 | 36 | 197 |
+| 360d | 2025-10-27 | 2 | 123 | 31 | 19 | 66 | 198 |
+| last720d | 2024-11-01 | 6 | 330 | 44 | 133 | 173 | 1192 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [d2-v0.9.0-linux-amd64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-linux-amd64.tar.gz) | 17.2 MiB | `native/linux/x64` |
-| [d2-v0.9.0-linux-arm64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-linux-arm64.tar.gz) | 15.8 MiB | `native/linux/arm64` |
-| [d2-v0.9.0-macos-amd64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-macos-amd64.tar.gz) | 17.4 MiB | `native/darwin/x64` |
-| [d2-v0.9.0-macos-arm64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-macos-arm64.tar.gz) | 16.3 MiB | `native/darwin/arm64` |
-| [d2-v0.9.0-windows-amd64.msi](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-windows-amd64.msi) | 14.8 MiB | `native/win/x64` |
-| [d2-v0.9.0-windows-amd64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-windows-amd64.tar.gz) | 17.4 MiB | `native/win/x64` |
-| [d2-v0.9.0-windows-arm64.tar.gz](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2-v0.9.0-windows-arm64.tar.gz) | 15.9 MiB | `native/win/arm64` |
-| [d2.spdx.json](https://github.com/terrastruct/d2/releases/download/v0.9.0/d2.spdx.json) | 23.7 KiB | `other` |
-| [SHA256SUMS](https://github.com/terrastruct/d2/releases/download/v0.9.0/SHA256SUMS) | 574 B | `other` |
+| [d2-v0.9.0-linux-amd64.tar.gz](https://github.com/d2lang/d2/releases/download/v0.9.0/d2-v0.9.0-linux-amd64.tar.gz) | 17.2 MiB | `native/linux/x64` |
+| [d2-v0.9.0-linux-arm64.tar.gz](https://github.com/d2lang/d2/releases/download/v0.9.0/d2-v0.9.0-linux-arm64.tar.gz) | 15.8 MiB | `native/linux/arm64` |
+| [d2-v0.9.0-macos-amd64.tar.gz](https://github.com/d2lang/d2/releases/download/v0.9.0/d2-v0.9.0-macos-amd64.tar.gz) | 17.4 MiB | `native/darwin/x64` |
+| [d2-v0.9.0-macos-arm64.tar.gz](https://github.com/d2lang/d2/releases/download/v0.9.0/d2-v0.9.0-macos-arm64.tar.gz) | 16.3 MiB | `native/darwin/arm64` |
+| [d2-v0.9.0-windows-amd64.msi](https://github.com/d2lang/d2/releases/download/v0.9.0/d2-v0.9.0-windows-amd64.msi) | 14.8 MiB | `native/win/x64` |
+| [d2-v0.9.0-windows-amd64.tar.gz](https://github.com/d2lang/d2/releases/download/v0.9.0/d2-v0.9.0-windows-amd64.tar.gz) | 17.4 MiB | `native/win/x64` |
+| [d2-v0.9.0-windows-arm64.tar.gz](https://github.com/d2lang/d2/releases/download/v0.9.0/d2-v0.9.0-windows-arm64.tar.gz) | 15.9 MiB | `native/win/arm64` |
+| [d2.spdx.json](https://github.com/d2lang/d2/releases/download/v0.9.0/d2.spdx.json) | 23.7 KiB | `other` |
+| [SHA256SUMS](https://github.com/d2lang/d2/releases/download/v0.9.0/SHA256SUMS) | 574 B | `other` |
 
 ## 改进这些数据
 
@@ -88,4 +78,4 @@ d2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:11:50Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:07:28Z._
