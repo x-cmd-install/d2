@@ -38,22 +38,22 @@ Total: **2,155,291** lines of code across **5251** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,700 · **Forks**: 767 · **Open issues**: 1,406 · **Contributors**: 67
+- **Stars**: 25,708 · **Forks**: 768 · **Open issues**: 1,407 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1175 · **Open PRs**: 56 · **Closed issues**: 926 · **Open issues**: 480 · **Commits**: 5423
+- **Releases**: 36 · **Merged PRs**: 1175 · **Open PRs**: 58 · **Closed issues**: 926 · **Open issues**: 481 · **Commits**: 5423
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 6 | 1 | 6 | 4 |
-| last60d | 2026-08-23 | 2 | 70 | 11 | 3 | 9 | 117 |
-| 90d | 2026-07-24 | 2 | 122 | 17 | 7 | 17 | 197 |
-| last180d | 2026-04-25 | 2 | 122 | 27 | 10 | 36 | 197 |
-| 360d | 2025-10-27 | 2 | 123 | 31 | 19 | 66 | 198 |
-| last720d | 2024-11-01 | 6 | 330 | 44 | 133 | 173 | 1192 |
+| 30d | 2026-09-23 | 0 | 1 | 8 | 1 | 7 | 4 |
+| last60d | 2026-08-24 | 2 | 65 | 13 | 3 | 10 | 117 |
+| 90d | 2026-07-25 | 2 | 122 | 19 | 6 | 17 | 197 |
+| last180d | 2026-04-26 | 2 | 122 | 29 | 10 | 36 | 197 |
+| 360d | 2025-10-28 | 2 | 123 | 33 | 19 | 67 | 198 |
+| last720d | 2024-11-02 | 6 | 330 | 46 | 133 | 174 | 1192 |
 
 ## Release assets
 
@@ -69,6 +69,19 @@ Total: **2,155,291** lines of code across **5251** files in the top 5 languages.
 | [d2.spdx.json](https://github.com/d2lang/d2/releases/download/v0.9.0/d2.spdx.json) | 23.7 KiB | `other` |
 | [SHA256SUMS](https://github.com/d2lang/d2/releases/download/v0.9.0/SHA256SUMS) | 574 B | `other` |
 
+## Distribution status
+
+Reported by **27** distros on [repology.org](https://repology.org/project/d2). **13** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.9.0` | ✅ latest |
+| Homebrew | `0.9.0` | ✅ latest |
+| Fedora rawhide | `0.8.2` | ⚠️ outdated |
+| Nix unstable | `0.9.0` | ✅ latest |
+| Void | `0.7.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.9.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for d2 lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `d2` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +91,4 @@ Install metadata for d2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:07:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:09:50Z._
