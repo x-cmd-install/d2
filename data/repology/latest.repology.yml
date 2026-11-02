@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: d2
+  binname: d2
+  visiblename: d2
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: newest
+  summary: A modern diagram scripting language that turns text to diagrams
+  licenses:
+    - MPL-2.0
 - repo: altsisyphus
   srcname: d2
   binnames:
@@ -150,34 +161,23 @@
   srcname: d2
   binname: d2
   visiblename: d2
-  version: 0.8.2
-  origversion: 0.8.2-1
+  version: 0.6.0
+  origversion: 0.6.0-1
   status: outdated
   summary: A modern diagram scripting language that turns text to diagrams
   licenses:
-    - MPL-2.0
+    - MPL2
 - repo: manjaro_testing
   subrepo: extra
   srcname: d2
   binname: d2
   visiblename: d2
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: newest
+  version: 0.6.0
+  origversion: 0.6.0-1
+  status: outdated
   summary: A modern diagram scripting language that turns text to diagrams
   licenses:
-    - MPL-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: d2
-  binname: d2
-  visiblename: d2
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: newest
-  summary: A modern diagram scripting language that turns text to diagrams
-  licenses:
-    - MPL-2.0
+    - MPL2
 - repo: nix_stable_24_05
   srcname: d2
   visiblename: d2
