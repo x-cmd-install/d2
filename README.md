@@ -38,22 +38,22 @@ Total: **2,155,291** lines of code across **5251** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,779 · **Forks**: 778 · **Open issues**: 1,409 · **Contributors**: 67
+- **Stars**: 25,787 · **Forks**: 778 · **Open issues**: 1,410 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1175 · **Open PRs**: 60 · **Closed issues**: 926 · **Open issues**: 483 · **Commits**: 5423
+- **Releases**: 36 · **Merged PRs**: 1175 · **Open PRs**: 60 · **Closed issues**: 926 · **Open issues**: 484 · **Commits**: 5423
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 10 | 0 | 8 | 3 |
-| last60d | 2026-09-03 | 1 | 55 | 15 | 2 | 12 | 59 |
-| 90d | 2026-08-04 | 2 | 105 | 19 | 6 | 15 | 133 |
-| last180d | 2026-05-06 | 2 | 122 | 30 | 10 | 37 | 197 |
-| 360d | 2025-11-07 | 2 | 123 | 35 | 18 | 64 | 198 |
-| last720d | 2024-11-12 | 5 | 322 | 47 | 128 | 170 | 1179 |
+| 30d | 2026-10-04 | 0 | 0 | 10 | 0 | 8 | 3 |
+| last60d | 2026-09-04 | 1 | 55 | 15 | 2 | 13 | 59 |
+| 90d | 2026-08-05 | 2 | 105 | 18 | 6 | 15 | 133 |
+| last180d | 2026-05-07 | 2 | 122 | 30 | 10 | 38 | 197 |
+| 360d | 2025-11-08 | 2 | 123 | 35 | 18 | 65 | 198 |
+| last720d | 2024-11-13 | 5 | 319 | 47 | 128 | 171 | 1179 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for d2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:33:26Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:28:23Z._
