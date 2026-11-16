@@ -1,3 +1,31 @@
+- repo: nix_stable_25_11
+  srcname: d2
+  visiblename: d2
+  version: 0.7.1
+  origversion: null
+  status: outdated
+  summary: Modern diagram scripting language that turns text to diagrams
+  maintainers:
+    - 7rat13@gmail.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - MPL-2.0
+- repo: altsisyphus
+  srcname: d2
+  binnames:
+    - d2
+    - d2-debuginfo
+  visiblename: d2
+  version: 0.9.0
+  origversion: 0.9.0-alt1
+  status: newest
+  summary: A modern diagram scripting language that turns text to diagrams
+  maintainers:
+    - aibure@altlinux.org
+  licenses:
+    - MPL-2.0
+  categories:
+    - Publishing
 - repo: arch
   subrepo: extra
   srcname: d2
@@ -21,22 +49,6 @@
     - necklace@aur
   licenses:
     - MPL2
-- repo: altsisyphus
-  srcname: d2
-  binnames:
-    - d2
-    - d2-debuginfo
-  visiblename: d2
-  version: 0.9.0
-  origversion: 0.9.0-alt1
-  status: newest
-  summary: A modern diagram scripting language that turns text to diagrams
-  maintainers:
-    - aibure@altlinux.org
-  licenses:
-    - MPL-2.0
-  categories:
-    - Publishing
 - repo: aur
   srcname: d2-git
   binname: d2-git
@@ -134,9 +146,9 @@
   srcname: graphics/d2
   binname: d2
   visiblename: d2
-  version: 0.8.2
+  version: 0.9.0
   origversion: null
-  status: outdated
+  status: newest
   summary: D2 is a modern diagram scripting language that turns text to diagrams.
   maintainers:
     - herbygillot@github
@@ -206,18 +218,6 @@
   srcname: d2
   visiblename: d2
   version: 0.7.0
-  origversion: null
-  status: outdated
-  summary: Modern diagram scripting language that turns text to diagrams
-  maintainers:
-    - 7rat13@gmail.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - MPL-2.0
-- repo: nix_stable_25_11
-  srcname: d2
-  visiblename: d2
-  version: 0.7.1
   origversion: null
   status: outdated
   summary: Modern diagram scripting language that turns text to diagrams
