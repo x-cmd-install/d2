@@ -14,12 +14,12 @@ x install d2
 
 ## Code insight
 
-Total: **2,163,311** lines of code across **5301** files in the top 5 languages.
+Total: **2,163,654** lines of code across **5304** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,772,253 | 0 | 0 | 2071 |
-| Go | 317,453 | 14,823 | 25,545 | 1225 |
+| Go | 317,796 | 14,847 | 25,575 | 1228 |
 | Svg | 63,778 | 0 | 1,999 | 1951 |
 | Sh | 3,459 | 240 | 392 | 35 |
 | JavaScript | 2,864 | 21 | 207 | 19 |
@@ -38,22 +38,22 @@ Total: **2,163,311** lines of code across **5301** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 25,877 · **Forks**: 782 · **Open issues**: 1,413 · **Contributors**: 74
+- **Stars**: 25,887 · **Forks**: 783 · **Open issues**: 1,414 · **Contributors**: 74
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1210 · **Open PRs**: 53 · **Closed issues**: 944 · **Open issues**: 469 · **Commits**: 5554
+- **Releases**: 36 · **Merged PRs**: 1211 · **Open PRs**: 55 · **Closed issues**: 944 · **Open issues**: 470 · **Commits**: 5557
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 32 | 3 | 4 | 3 | 80 |
-| last60d | 2026-09-22 | 0 | 36 | 5 | 9 | 5 | 89 |
-| 90d | 2026-08-23 | 2 | 105 | 9 | 12 | 7 | 209 |
-| last180d | 2026-05-25 | 2 | 157 | 17 | 20 | 23 | 282 |
-| 360d | 2025-11-26 | 2 | 158 | 27 | 29 | 55 | 283 |
-| last720d | 2024-12-01 | 5 | 348 | 40 | 134 | 158 | 1274 |
+| 30d | 2026-10-23 | 0 | 31 | 5 | 3 | 4 | 82 |
+| last60d | 2026-09-23 | 0 | 37 | 7 | 9 | 6 | 91 |
+| 90d | 2026-08-24 | 2 | 101 | 11 | 12 | 8 | 211 |
+| last180d | 2026-05-26 | 2 | 158 | 19 | 20 | 24 | 284 |
+| 360d | 2025-11-27 | 2 | 159 | 29 | 29 | 55 | 285 |
+| last720d | 2024-12-02 | 5 | 349 | 42 | 134 | 159 | 1277 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for d2 lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:59:41Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:15:32Z._
