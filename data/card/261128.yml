@@ -1,0 +1,191 @@
+about:
+  description: "D2 is a modern diagram scripting language that turns text to diagrams."
+  license: MPL-2.0
+  homepage: https://d2lang.com
+  head: de8d49f
+  archived: false
+  latestVersion: "v0.10.0"
+  latestRelease: "v0.10.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:13:37Z
+timeline:
+  created: 2022-09-05
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 
+popularity:
+  star: 25983
+  watcher: 78
+  fork: 793
+  release: 37
+  contributor: 78
+  pullRequest: 1461
+  issue: 1419
+language:
+  Go: 13333588
+  Shell: 149300
+  Python: 131269
+  JavaScript: 88412
+  HTML: 29729
+  Roff: 15771
+  PowerShell: 12165
+  TypeScript: 2326
+  Dockerfile: 1831
+  D2: 1607
+  Makefile: 1519
+  CSS: 404
+totalBytes: 13767921
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 127
+    openPR: 6
+    closedIssue: 6
+    openIssue: 4
+    commit: 427
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 132
+    openPR: 6
+    closedIssue: 12
+    openIssue: 6
+    commit: 439
+  last90d:
+    since: 2026-08-30
+    release: 2
+    mergedPR: 187
+    openPR: 7
+    closedIssue: 16
+    openIssue: 8
+    commit: 541
+  last180d:
+    since: 2026-06-01
+    release: 3
+    mergedPR: 253
+    openPR: 12
+    closedIssue: 33
+    openIssue: 14
+    commit: 633
+  last360d:
+    since: 2025-12-03
+    release: 3
+    mergedPR: 254
+    openPR: 15
+    closedIssue: 59
+    openIssue: 27
+    commit: 634
+  last720d:
+    since: 2024-12-08
+    release: 6
+    mergedPR: 443
+    openPR: 25
+    closedIssue: 197
+    openIssue: 97
+    commit: 1757
+total:
+  release: 37
+  mergedPR: 1306
+  openPR: 33
+  closedIssue: 1089
+  openIssue: 330
+  commit: 6039
+---
+path: /home/runner/.x-repo/github.com/d2lang/d2
+collectedAt: 2026-11-28T09:14:45Z
+loc:
+  Json:
+    code: 1826413
+    comments: 0
+    blanks: 0
+    files: 2095
+  Go:
+    code: 372749
+    comments: 21502
+    blanks: 28991
+    files: 1579
+  Svg:
+    code: 10421
+    comments: 9
+    blanks: 60
+    files: 1114
+  Sh:
+    code: 4090
+    comments: 363
+    blanks: 457
+    files: 40
+  JavaScript:
+    code: 3663
+    comments: 49
+    blanks: 256
+    files: 24
+  Python:
+    code: 2407
+    comments: 51
+    blanks: 330
+    files: 20
+  Css:
+    code: 628
+    comments: 2
+    blanks: 126
+    files: 3
+  Xml:
+    code: 568
+    comments: 0
+    blanks: 0
+    files: 10
+  Html:
+    code: 410
+    comments: 0
+    blanks: 2
+    files: 4
+  TypeScript:
+    code: 405
+    comments: 98
+    blanks: 43
+    files: 2
+  PowerShell:
+    code: 261
+    comments: 0
+    blanks: 14
+    files: 2
+  Makefile:
+    code: 65
+    comments: 2
+    blanks: 11
+    files: 3
+  Dockerfile:
+    code: 34
+    comments: 2
+    blanks: 8
+    files: 1
+  RPMSpecfile:
+    code: 34
+    comments: 2
+    blanks: 4
+    files: 1
+  Toml:
+    code: 5
+    comments: 2
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3436
+    blanks: 1166
+    files: 64
+  Text:
+    code: 0
+    comments: 5643
+    blanks: 1108
+    files: 73
+total:
+  code: 2222687
+  comments: 31169
+  blanks: 32609
+  files: 5036
+---
+
+---
